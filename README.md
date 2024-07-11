@@ -1,6 +1,7 @@
 <p align="center">
   <img src="[https://5cgkr6.csb.app](https://5cgkr6.csb.app/)" alt="Hi, I'm Zyad 👋 I'm a 🚀 EG developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
+![Uploading Untitledvideo-MadewithClipchamp-ezgif.com-crop (1).gif…]()
 
 <!--
 How to make this gif ?
