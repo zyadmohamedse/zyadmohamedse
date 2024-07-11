@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="[https://5cgkr6.csb.app](https://5cgkr6.csb.app/)" alt="Hi, I'm Zyad 👋 I'm a 🚀 EG developer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="[[https://5cgkr6.csb.app](https://5cgkr6.csb.app/)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwOWlldXd6Ym9uODk3azEzbm93bWx2N3Zrd2lnbWQxeXU2b2hrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zjeKQyF9bBsEsKKeZU/giphy.gif)" alt="Hi, I'm Zyad 👋 I'm a 🚀 EG developer 🚀 I ❤️ Happy Hardcore ❤️">
 </p>
-![Uploading Untitledvideo-MadewithClipchamp-ezgif.com-crop (1).gif…]()
+
 
 <!--
 How to make this gif ?
