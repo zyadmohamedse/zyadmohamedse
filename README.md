@@ -1,70 +1,32 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwOWlldXd6Ym9uODk3azEzbm93bWx2N3Zrd2lnbWQxeXU2b2hrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zjeKQyF9bBsEsKKeZU/giphy.gif" alt="Hi, I'm Zyad 👋 I'm a 🚀 EG developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
+<h1 align="center">Hi 👋, I'm Zyad</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" /> </p>
 
-<!--
-How to make this gif ?
+- 🌱 I’m currently learning **AI and automation**
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
+- 💬 Ask me about **Python and AI Automations**
 
-## :memo: Blog
+- 📫 How to reach me **Zyadmohamed.se@gmail.com**
 
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Y-Combinator en PHP](https://blog.darkwood.com/article/y-combinator-en-php)
-- [Changer de gestionnaire de mot de passe](https://blog.darkwood.com/article/changer-de-gestionnaire-de-mot-de-passe)
-- [NoCode avec le projet Capsule Corp](https://blog.darkwood.com/article/nocode-avec-le-projet-capsule-corp)
-- [Utiliser VSCode à distance](https://blog.darkwood.com/article/utiliser-vscode-a-distance)
-- [Crypto Tracker](https://blog.darkwood.com/article/crypto-tracker)
 <!-- BLOG-POST-LIST:END -->
 
-## :link: Links
-
-<p align="center">
-  <a href="https://darkwood.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-  <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
-  <a href="https://www.snapchat.com/add/matyo91"><img src="https://img.icons8.com/color/96/000000/snapchat.png" alt="snapchat"/></a>
-  <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://www.reddit.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
-  <a href="https://www.twitch.tv/matyo91"><img src="https://img.icons8.com/color/96/000000/twitch--v2.png" alt="twitch"/></a>
-  <a href="https://fr.pinterest.com/matyo91"><img src="https://img.icons8.com/color/96/000000/pinterest--v1.png" alt="pinterest"/></a>
-  <a href="https://soundcloud.com/djmatyo91"><img src="https://img.icons8.com/color/96/000000/soundcloud.png" alt="soundcloud"/></a>
-  <a href="https://medium.com/@matyo91"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="https://www.mixcloud.com/matyo91"><img src="https://img.icons8.com/windows/96/000000/mixcloud.png" alt="mixcloud"/></a>
-  <a href="https://keybase.io/matyo91"><img src="https://img.icons8.com/windows/96/000000/keybase2.png" alt="keybase"/></a>
-  <a href="https://steamcommunity.com/id/matyo91"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
-  <a href="https://vk.com/matyo91"><img src="https://img.icons8.com/nolan/96/vk-circled.png" alt="vk"/></a>
-  <a href="https://open.spotify.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
-  <a href="https://tripadvisor.com/members/matyo91"><img src="https://img.icons8.com/color/96/000000/tripadvisor.png" alt="tripadvisor"/></a>
-  <a href="https://www.bandcamp.com/matyo91"><img src="https://img.icons8.com/nolan/96/bandcamp-button.png" alt="bandcamp"/></a>
-  <a href="https://stackoverflow.com/users/4027349/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <a href="https://connect.symfony.com/profile/matyo91"><img src="https://img.icons8.com/color/96/000000/symfony.png" alt="symfony"/></a>
-  <a href="https://hub.docker.com/u/matyo91"><img src="https://img.icons8.com/color/96/000000/docker.png" alt="docker"/></a>
-  <a href="mailto:Matyo#2285"><img src="https://img.icons8.com/color/96/000000/battle-net.png" alt="battle.net"/></a>
-  <a href="https://git-stars.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/star.png" alt="gitstars"/></a>
-  <a href="https://mastodon.social/@matyo91"><img src="https://img.icons8.com/windows/96/mastodon.png" alt="mastodon"/></a>
-  <a href="https://bsky.app/profile/matyo91.bsky.social"><img src="https://img.icons8.com/emoji/96/blue-square-emoji.png" alt="bluesky"/></a>
-  <a href="https://www.tiktok.com/@matyo91_"><img src="https://img.icons8.com/color/96/tiktok.png" alt="tiktok"/></a>
-  <a href="https://www.producthunt.com/@matyo91"><img src="https://img.icons8.com/ios-glyphs/96/product-hunt.png" alt="producthunt"/></a>
-  <a href="https://calendly.com/matyo91"><img src="https://img.icons8.com/ios-glyphs/96/calendar.png" alt="calendly"/></a>
-  <a href="https://www.indiehackers.com/matyo91"><img src="https://img.icons8.com/sf-regular-filled/96/bookmark.png" alt="indiehackers"/></a>
-  <a href="https://dev.to/matyo91"><img src="https://img.icons8.com/windows/96/dev.png" alt="devto"/></a>
-  <a href="https://webflow.com/@matyo91"><img src="https://img.icons8.com/color/96/webflow.png" alt="webflow"/></a>
-  <a href="https://www.polywork.com/matyo91"><img src="https://img.icons8.com/fluency-systems-filled/96/add-bookmark.png" alt="polywork"/></a>
-  <a href="https://opensea.io/matyo91"><img src="https://img.icons8.com/color/96/opensea.png" alt="opensea"/></a>
-  <a href="https://huggingface.co/matyo91"><img src="https://img.icons8.com/emoji/96/hugging-face.png" alt="huggingface"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/zyadmohamed_sed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyadmohamed_sed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zyad-mohamed-se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zyad-mohamed-se" height="30" width="40" /></a>
+<a href="https://fb.com/zyadmohamed.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zyadmohamed.se" height="30" width="40" /></a>
+<a href="https://instagram.com/zyadmohamed.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyadmohamed.se" height="30" width="40" /></a>
+<a href="https://medium.com/@zyadmohamed.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zyadmohamed.se" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/zyadmohamed.se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zyadmohamed.se" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/zyadmohame0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zyadmohame0" /></a></p><br><br>
 
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyadmohamedse&show_icons=true&locale=en&layout=compact" alt="zyadmohamedse" /></p>
