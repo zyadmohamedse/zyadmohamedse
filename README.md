@@ -46,12 +46,12 @@
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/zyadmohame0">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="zyadmohame0" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="zyadmohame0" />
   </a>
 </p>
 <br><br>
 
-<div style="display: flex; justify-content: center; gap: 18px;">
+<div style="display: flex; justify-content: center; gap: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=zyadmohamedse&show_icons=true&locale=en" alt="zyadmohamedse" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmohamedse&" alt="zyadmohamedse" />
 </div>
