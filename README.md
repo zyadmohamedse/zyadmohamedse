@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zyad</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDUwOWlldXd6Ym9uODk3azEzbm93bWx2N3Zrd2lnbWQxeXU2b2hrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zjeKQyF9bBsEsKKeZU/giphy.gif" alt="Hi, I'm Zyad 👋 I'm a 🚀 EG developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" /> </p>
