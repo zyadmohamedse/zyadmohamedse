@@ -9,11 +9,6 @@
   <div style="padding: 10px; border: 2px solid #0e75b6; border-radius: 8px; background-color: #f0f8ff; display: flex; align-items: center;">
     <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" />
   </div>
-  <div style="padding: 10px; border: 2px solid #1DA1F2; border-radius: 8px; background-color: #e8f5fe; display: flex; align-items: center;">
-    <a href="https://twitter.com/zyadmohamed_sed" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/twitter/follow/zyadmohamed_sed?logo=twitter&style=for-the-badge" alt="zyadmohamed_sed" />
-    </a>
-  </div>
 </div>
 
 
