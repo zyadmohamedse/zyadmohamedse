@@ -47,13 +47,16 @@
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/zyadmohame0">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="zyadmohame0" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="zyadmohame0" />
   </a>
 </p>
+
+<h3 align="center">Statistics:</h3>
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyadmohamedse&show_icons=true&locale=en" alt="zyadmohamedse" width="48%" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmohamedse&" alt="zyadmohamedse" width="48%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zyadmohamedse&show_icons=true&locale=en" alt="zyadmohamedse" width="50%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmohamedse&" alt="zyadmohamedse" width="50%" height="200" />
 </div>
+
 
 
 
