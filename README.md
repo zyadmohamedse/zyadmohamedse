@@ -6,10 +6,11 @@
 
 
 <div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-top: 20px;">
-  <div style="padding: 10px; border: 2px solid #0e75b6; border-radius: 8px; background-color: #f0f8ff; display: flex; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" />
+  <div style="padding: 20px; border: 3px solid #0e75b6; border-radius: 12px; background-color: #e0f7ff; display: flex; align-items: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" style="transform: scale(1.5);" />
   </div>
 </div>
+
 
 
 
