@@ -6,15 +6,12 @@
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" />
-  </p>
-  <p>
-    <a href="https://twitter.com/zyadmohamed_sed" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/zyadmohamed_sed?logo=twitter&style=for-the-badge" alt="zyadmohamed_sed" />
-    </a>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" />
+  <a href="https://twitter.com/zyadmohamed_sed" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/zyadmohamed_sed?logo=twitter&style=for-the-badge" alt="zyadmohamed_sed" />
+  </a>
 </div>
+
 
 
 
