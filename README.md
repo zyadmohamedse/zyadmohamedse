@@ -4,19 +4,6 @@
 
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<h3 align="center">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/zyadmohame0">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zyadmohame0" />
-  </a>
-</p>
-<br><br>
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyadmohamedse&show_icons=true&locale=en" alt="zyadmohamedse" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmohamedse&" alt="zyadmohamedse" />
-</div>
-<br><br>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <p>
@@ -28,6 +15,7 @@
     </a>
   </p>
 </div>
+
 
 
 - 🌱 I’m currently learning **AI and automation**
