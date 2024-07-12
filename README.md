@@ -46,24 +46,14 @@
 <h3 align="center">Support:</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/zyadmohame0">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zyadmohame0" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="zyadmohame0" />
   </a>
 </p>
 <br><br>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=zyadmohamedse&show_icons=true&locale=en" alt="zyadmohamedse" width="300" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmohamedse&" alt="zyadmohamedse" width="300" height="200"/>
+<div style="display: flex; justify-content: center; gap: 18px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=zyadmohamedse&show_icons=true&locale=en" alt="zyadmohamedse" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyadmohamedse&" alt="zyadmohamedse" />
 </div>
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <div style="padding: 5px; border: 1px solid #0e75b6; border-radius: 8px; background-color: #f0f8ff; display: flex; align-items: center;">
-    <img src="https://komarev.com/ghpvc/?username=zyadmohamedse&label=Profile%20views&color=0e75b6&style=flat" alt="zyadmohamedse" width="100"/>
-  </div>
-  <div style="padding: 5px; border: 1px solid #1DA1F2; border-radius: 8px; background-color: #e8f5fe; display: flex; align-items: center;">
-    <a href="https://twitter.com/zyadmohamed_sed" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/twitter/follow/zyadmohamed_sed?logo=twitter&style=for-the-badge" alt="zyadmohamed_sed" width="150"/>
-    </a>
-  </div>
-</div>
 
