@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="36" viewBox="0 0 292 36" role="img" aria-labelledby="title desc"><title id="title">ACTIVITY</title><desc id="desc">Jump to activity.</desc>
+<defs><linearGradient id="activeFill" x2="0" y2="1"><stop stop-color="#191622"/><stop offset=".85" stop-color="#271b39"/><stop offset="1" stop-color="#71339a"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="291" height="35" rx="6" fill="url(#activeFill)" stroke="#bd72f4"/>
+<path d="M8 34.5H284" stroke="#e19bff" stroke-width="1.5"/>
+<g transform="translate(96 10) scale(0.6666666666666666)"><path d="M4 19v-5m5 5V9m5 10V4m5 15V8" stroke="#dfadf8" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g><text x="122" y="23" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#f0dffa" font-weight="650" letter-spacing="0.48" text-anchor="start">ACTIVITY</text></svg>

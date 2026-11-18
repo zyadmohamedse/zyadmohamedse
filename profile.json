@@ -1,0 +1,18 @@
+{
+  "username": "zyadmohamedse",
+  "name": "Zyad Mohamed",
+  "title": "ZYAD // SECURITY & AUTOMATION",
+  "status": "Building · Learning",
+  "fields": [
+    ["Role", "Cybersecurity student"],
+    ["Focus", "Mobile defense · Automation"],
+    ["Stack", "Python · No-code"],
+    ["Interests", "Network security · Machine learning"],
+    ["Location", "Egypt"],
+    ["Status", "Building · Learning"]
+  ],
+  "toolkit": ["Python", "Automation", "Machine learning"],
+  "currentProject": "Android phishing detection",
+  "school": "Arab Open University",
+  "releaseHighlight": "Arcade v2.4.5"
+}

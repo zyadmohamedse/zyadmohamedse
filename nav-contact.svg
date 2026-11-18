@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="36" viewBox="0 0 292 36" role="img" aria-labelledby="title desc"><title id="title">CONTACT</title><desc id="desc">Jump to contact.</desc>
+<defs><linearGradient id="activeFill" x2="0" y2="1"><stop stop-color="#191622"/><stop offset=".85" stop-color="#271b39"/><stop offset="1" stop-color="#71339a"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="291" height="35" rx="6" fill="#0e1219" stroke="#615b70"/>
+
+<g transform="translate(96 10) scale(0.6666666666666666)"><path d="M3 6h18v12H3zm0 0 9 7 9-7" stroke="#dfadf8" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></g><text x="122" y="23" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" fill="#f0dffa" font-weight="650" letter-spacing="0.48" text-anchor="start">CONTACT</text></svg>
