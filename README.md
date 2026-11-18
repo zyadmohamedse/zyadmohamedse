@@ -1,17 +1,17 @@
 <!-- Profile details for the command center graphic are in profile.json. -->
-<img src="assets/command-center.svg" alt="Zyad Mohamed’s cybersecurity command center. Cybersecurity student in Egypt working with Python, no-code automation, and machine learning. An original hooded portrait built from monospace characters." width="900">
+<img src="./command-center.svg" alt="Zyad Mohamed’s cybersecurity command center. Cybersecurity student in Egypt working with Python, no-code automation, and machine learning. An original hooded portrait built from monospace characters." width="900">
 
 <p align="center">
-  <a href="#projects"><img src="assets/nav-projects.svg" alt="Projects" width="32%"></a>
-  <a href="#activity"><img src="assets/nav-activity.svg" alt="Activity" width="32%"></a>
-  <a href="#contact"><img src="assets/nav-contact.svg" alt="Contact" width="32%"></a>
+  <a href="#projects"><img src="./nav-projects.svg" alt="Projects" width="32%"></a>
+  <a href="#activity"><img src="./nav-activity.svg" alt="Activity" width="32%"></a>
+  <a href="#contact"><img src="./nav-contact.svg" alt="Contact" width="32%"></a>
 </p>
 
 <a name="activity"></a>
 
-[![GitHub activity for Zyad Mohamed. Open the contribution history for accessible counts and dates.](assets/activity.svg)](https://github.com/zyadmohamedse#contribution-activity)
+[![GitHub activity for Zyad Mohamed. Open the contribution history for accessible counts and dates.](./activity.svg)](https://github.com/zyadmohamedse#contribution-activity)
 
-[![Current focus: Android phishing detection. Featured release: Arcade v2.4.5.](assets/status.svg)](#projects)
+[![Current focus: Android phishing detection. Featured release: Arcade v2.4.5.](./status.svg)](#projects)
 
 ## Projects
 
